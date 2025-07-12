@@ -41,7 +41,7 @@ body {
 .supporting-row {
   grid-column: 1 / -1;
   background: #333;
-  color: #39ff14;
+  color: #eee;
   padding: 1rem;
   border-radius: 8px;
   font-size: 1.05rem;
