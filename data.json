@@ -7,17 +7,17 @@
   {
     "Change": "Hosting Platform",
     "Area": "Operations",
-    "SupportingInfo": "Yahoo, a good solution for this league for many years, has been slipping in recent years. There are other alternatives that exist that may provide the league a better experience. Two options that have been brought up are Sleeper and Fantrax. Some of the benefits they offer are: better mobile apps, a much better draftroom experience, more customization (including defensive scoring to the exact points allowed instead of tiers), and more advanced features that can add some additional fun.\n\nHowever there are some downsides to switching platforms. The biggest one is that it will be a lot of work to get the league set up on a new platform, and there is a risk that some of you may not like the new platform or would have to get used to using their specific user interfaces." 
+    "SupportingInfo": "Yahoo, a good solution for this league for many seasons, has been slipping in recent years. There are other alternatives that exist that may provide the league a better experience. Two options that have been brought up are Sleeper and Fantrax. Some of the benefits they offer are: better mobile apps, a much better draftroom experience, more customization (including defensive scoring to the exact points allowed instead of tiers), and more advanced features that can add some additional fun.<br><br>However there are some downsides to switching platforms. The biggest one is that it will be a lot of work to get the league set up on a new platform, and there is a risk that some of you may not like the new platform or would have to get used to using their specific user interfaces." 
   },
   {
     "Change": "PPR Removal and 7 REC Yard per point",
     "Area": "Fairness",
-    "SupportingInfo": "This change would remove the .5 PPR scoring and instead give 7 yards per point for receving yards. This continues to help to balance the scoring between RBs and WRs, but does not penalize those WRs who happen to break off long plays more frequently. It also stop rewarding players who catch a ball for a loss or very short yardage- should a zero-yard reception really be equal to a 5-yard run?\n\nAnother way of thinking of this is if two WRs caught a pass using the same exact quick slant route from the 50-yard line... the first broke the defenders ankles and took it the distance for a TD while the second got tackled right away. The second then caught a second and third pass to score a TD. Should the first WR get PENALIZED by a point just because he did his job and scored the very first time he touched the ball instead of getting tackled?"
+    "SupportingInfo": "This change would remove the .5 PPR scoring and instead give 7 yards per point for receving yards. This continues to help to balance the scoring between RBs and WRs, but does not penalize those WRs who happen to break off long plays more frequently. It also stop rewarding players who catch a ball for a loss or very short yardage- should a zero-yard reception really be equal to a 5-yard run?<br><br>Another way of thinking of this is if two WRs caught a pass using the same exact quick slant route from the 50-yard line... the first broke the defenders ankles and took it the distance for a TD while the second got tackled right away. The second then caught a second and third pass to score a TD. Should the first WR get PENALIZED by a point just because he did his job and scored the very first time he touched the ball instead of getting tackled?"
   },
   {
     "Change": "Combining the WR and TE positions",
     "Area": "Strategy",
-    "SupportingInfo": "This change is more of a 'reflecting the real world' change as NFL teams could theoretically line up in 4 WR sets or 5 WR sets without a TE on the field. Should we make it <b>mandatory</b> to have a TE as a starting position? "
+    "SupportingInfo": "This change is more of a 'reflecting the real world' change as NFL teams could theoretically line up in 4 WR sets or 5 WR sets without a TE on the field. Should we make it <b>mandatory</b> to have a TE as a starting position?"
   },
   {
     "Change": "Defensive Scoring",

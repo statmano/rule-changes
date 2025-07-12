@@ -22,6 +22,7 @@ body {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 1rem;
+  align-items: stretch;
 }
 
 .grid-label {
@@ -36,14 +37,47 @@ body {
   padding: 0.75rem 1rem;
   border-radius: 8px;
   font-size: 1.1rem;
+  min-height: 100px;
+  display: flex;
+  align-items: center;
 }
 
 .supporting-row {
   grid-column: 1 / -1;
   background: #333;
-  color: #eee;
+  color: #39ff14;
   padding: 1rem;
   border-radius: 8px;
   font-size: 1.05rem;
   margin-top: 0.5rem;
+}
+
+.section-divider {
+  height: 8px;
+  background: linear-gradient(90deg, #00bcd4 0%, #39ff14 100%);
+  border: none;
+  margin: 2rem 0;
+  width: 100%;
+  display: block;
+  clip-path: polygon(2% 0%, 100% 0%, 98% 100%, 0% 100%);
+}
+
+@media (max-width: 600px) {
+  #grid-container {
+    padding: 1rem;
+    max-width: 95vw;
+  }
+  .grid-row {
+    grid-template-columns: 1fr;
+  }
+  .section-divider {
+    margin: 1rem 0;
+    height: 8px;
+    clip-path: polygon(0% 0%, 98% 0%, 100% 100%, 2% 100%);
+  }
+  .grid-value {
+    font-size: 1rem;
+    padding: 0.5rem 0.5rem;
+    min-height: 60px;
+  }
 }
