@@ -2,7 +2,7 @@ fetch('data.json')
   .then(response => response.json())
   .then(data => {
     const container = document.getElementById('grid-container');
-    data.forEach(item => {
+    data.forEach((item, idx) => {
       // First row: Change & Area
       const row = document.createElement('div');
       row.className = 'grid-row';
@@ -20,7 +20,14 @@ fetch('data.json')
       // Second row: Supporting Info
       const supportingRow = document.createElement('div');
       supportingRow.className = 'supporting-row';
-      supportingRow.textContent = item.SupportingInfo;
+      supportingRow.innerHTML = item.SupportingInfo;
       container.appendChild(supportingRow);
+
+      // Divider except after last item
+      if (idx < data.length - 1) {
+        const divider = document.createElement('div');
+        divider.className = 'section-divider';
+        container.appendChild(divider);
+      }
     });
   });
