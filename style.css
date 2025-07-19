@@ -42,6 +42,10 @@ body {
   align-items: center;
 }
 
+#ppr {
+  max-width: 50vw;
+}
+
 .supporting-row {
   grid-column: 1 / -1;
   background: #333;
