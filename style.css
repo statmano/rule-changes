@@ -44,6 +44,8 @@ body {
 
 #ppr {
   max-width: 500px;
+  text-align: center;
+  margin: 0 auto;
 }
 
 .supporting-row {
