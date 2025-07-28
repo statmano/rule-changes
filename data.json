@@ -33,5 +33,10 @@
     "Change": "Combining the WR and TE positions",
     "Area": "Strategy",
     "SupportingInfo": "This change is more of a 'reflecting the real world' change as NFL teams could theoretically line up in 4 WR sets or 5 WR sets without a TE on the field. Should we make it <b>mandatory</b> to have a TE as a starting position?"
-  } 
+  },
+  {
+    "Change": "Dynasty w/ Auction Draft",
+    "Area": "Strategy",
+    "SupportingInfo": "This would be a complete change in format to the roster construction, so it would begin in 2026.<br><br>The rules would be the following:<br>- Auction Draft with random nomination order.<br>- Salary Cap = $320 (Average of $20 per roster spot)<br>- Can keep DRAFTED players up to 5 years (as long as they have not been dropped)<br>- Traded players can be kept (again as long as they have not been dropped since being drafted)"
+  }  
 ]
