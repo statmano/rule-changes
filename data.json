@@ -38,5 +38,10 @@
     "Change": "Dynasty w/ Auction Draft",
     "Area": "Strategy",
     "SupportingInfo": "This would be a complete change in format to the roster construction, so it would begin in 2026.<br><br>The rules would be the following:<br>- Auction Draft with random nomination order.<br>- Salary Cap = $320 (Average of $20 per roster spot)<br>- Can keep DRAFTED players up to 5 years (as long as they have not been dropped)<br>- Traded players can be kept (again as long as they have not been dropped since being drafted)"
+  },
+  {
+    "Change": "2 RB/3 WR and Removing Flex",
+    "Area": "Strategy",
+    "SupportingInfo": "Ths change would replace the current 1 RB/1 WR/3 FLEX format with 2 RB/3 WR. This is to keep things more balanced in regards to RB value and WR value as teams would no longer be able to start 4 RB (which historically tend to score more points because they just have the ball more often"
   }  
 ]
